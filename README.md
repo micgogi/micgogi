@@ -1,9 +1,9 @@
-# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Rahul Gogyani
+# Hello! I'm Rahul Gogyani
 
 
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Tech Stack
 
 <table>
   <tbody>
