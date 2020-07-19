@@ -68,4 +68,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=micgogi.micgogi)  
 
-<img src="https://github-readme-stats.vercel.app/api?username=micgogi&show_icons=false">  
+<img src="https://github-readme-stats.vercel.app/api?username=micgogi&show_icons=true">  
