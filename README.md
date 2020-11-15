@@ -1,8 +1,12 @@
-# Hello! I'm Rahul Gogyani  
+## Hello! I'm [Rahul Gogyani](https://rahulgogyani.com)  
 
 
+### Connect with me:
 
-
+[<img align="left" alt="rahulgogyani.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rahulgogyani.com)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RGogyani)
+[<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahulgogyani/)  
+<br>
 ## My Tech Stack
 
 <table>
@@ -62,8 +66,9 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table>  
 
+  
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=micgogi.micgogi)
 
