@@ -7,7 +7,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RGogyani)
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rahulgogyani/)  
 <br>
-## My Tech Stack
+### My Tech Stack
 
 <table>
   <tbody>
@@ -69,7 +69,7 @@
 </table>  
 
   
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀   
+### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=micgogi.micgogi)
 
 <img src="https://github-readme-stats.vercel.app/api?username=micgogi&show_icons=true">  
