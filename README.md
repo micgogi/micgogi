@@ -72,4 +72,4 @@
 ### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=micgogi.micgogi)
 
-<img src="https://github-readme-stats.vercel.app/api?username=micgogi&show_icons=true&theme=dark">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micgogi&layout=compact&theme=dark">  
+<img src="https://github-readme-stats.vercel.app/api?username=micgogi&show_icons=true&theme=dark"> 
