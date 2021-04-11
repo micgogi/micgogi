@@ -10,67 +10,12 @@
 <br>
 ### My Tech Stack
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Spring</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Docker</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>AWS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>VS Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>TypeScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>ReactJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>  
+<img height="50px" width="50px" src="https://cdn.svgporn.com/logos/java.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/spring.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/javascript.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/angular.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/docker.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/aws.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/git-icon.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/typescript.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/python.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/react.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
+     
 
   
 ### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=micgogi.micgogi)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=micgogi.micgogi)  
 
-<img src="https://github-readme-stats.vercel.app/api?username=micgogi&show_icons=true&theme=dark"> 
+### Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micgogi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=micgogi&show_icons=true&theme=dark"> 
