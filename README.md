@@ -11,6 +11,7 @@
 ### My Tech Stack
 
 <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/java.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/spring.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/javascript.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/angular.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/docker.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/aws.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/git-icon.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/typescript.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/python.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/react.svg"> <img height="50px" width="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
+<img height="50px" width="50px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
      
 
   
